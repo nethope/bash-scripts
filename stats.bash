@@ -5,6 +5,8 @@
 ## tab-separated output is compatible with gnuplot (just redirect
 ## stdout to a file).
 ##
+## https://github.com/nethope/bash-scripts
+##
 ## first run: stats.bash -c > gnuplot.file
 ## then from cron: stats.bash >> gnuplot.file
 ##
